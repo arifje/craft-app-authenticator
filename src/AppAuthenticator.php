@@ -1,6 +1,6 @@
 <?php
 
-namespace arjanbrinkman\craftappauthenticator;
+namespace arifje\craftappauthenticator;
 
 use Craft;
 use craft\base\Plugin;

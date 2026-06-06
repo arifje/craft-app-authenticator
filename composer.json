@@ -1,5 +1,5 @@
 {
-    "name": "arjan-brinkman/craft-app-authenticator",
+    "name": "arifje/craft-app-authenticator",
     "type": "craft-plugin",
 	"version": "1.0.0",
     "require": {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "arjanbrinkman\\craftappauthenticator\\": "src/"
+            "arifje\\craftappauthenticator\\": "src/"
         }
     },
     "extra": {
@@ -20,7 +20,7 @@
         "name": "App Authenticator",
         "developer": "Arjan Brinkman",
         "documentationUrl": "",
-        "class": "arjanbrinkman\\craftappauthenticator\\AppAuthenticator"
+        "class": "arifje\\craftappauthenticator\\AppAuthenticator"
     },
     "scripts": {
         "check-cs": "ecs check --ansi",

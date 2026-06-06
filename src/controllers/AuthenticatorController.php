@@ -1,5 +1,5 @@
 <?php
-namespace arjanbrinkman\craftappauthenticator\controllers;
+namespace arifje\craftappauthenticator\controllers;
 
 use Craft;
 use craft\web\Controller;

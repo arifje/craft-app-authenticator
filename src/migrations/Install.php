@@ -1,5 +1,5 @@
 <?php
-namespace arjanbrinkman\craftappauthenticator\migrations;
+namespace arifje\craftappauthenticator\migrations;
 
 use craft\db\Migration;
 

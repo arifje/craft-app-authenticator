@@ -17,7 +17,7 @@ This plugin requires Craft CMS 4.16.0 or later, and PHP 8.0.2 or later.
 Install the plugin in your Craft project with Composer:
 
 ```bash
-composer require arjan-brinkman/craft-app-authenticator
+composer require arifje/craft-app-authenticator
 php craft plugin/install _app-authenticator
 ```
 
