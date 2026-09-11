@@ -10,7 +10,9 @@ use it later to create a normal Craft user session for the WebView.
 
 ## Requirements
 
-This plugin requires Craft CMS 4.16.0 or later, and PHP 8.0.2 or later.
+This plugin requires Craft CMS 4.16.0 or later, or Craft CMS 5.0.0 or later.
+Craft 4 projects need PHP 8.0.2 or later. Craft 5 projects must meet Craft 5's
+own PHP and system requirements.
 
 ## Installation
 
